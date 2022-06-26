@@ -15,7 +15,7 @@ Template para portfólio de Data Science
 Esta seção tem como objetivo criar um histórico de aprendizagem. 
 
 ## Básico:
-* **Conversao_Moeda_Tempo_Real:** https://abre.ai/tipooperac
+* **Tipos e Operações:** https://abre.ai/tipooperac
 
 
 
