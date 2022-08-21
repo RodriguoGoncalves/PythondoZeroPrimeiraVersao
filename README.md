@@ -16,6 +16,6 @@ Esta seção tem como objetivo criar um histórico de aprendizagem.
 
 ## Básico:
 * **Tipos e Operações:** https://abre.ai/tipooperac
-* **Tuplas, Dicionários, Bibliotecas, Estrutura de Decisão, Estruturas de Repetição, Funções e Muitos exercicios:** https://abre.ai/tipooperac
+* **Tuplas, Dicionários, Bibliotecas, Estrutura de Decisão, Estruturas de Repetição, Funções e Muitos exercicios:** https://abre.ai/txtupdicbiblidecrepfunc
 
 
