@@ -8,7 +8,7 @@ Template para portfólio de Data Science
 </p>
 
 # Rodrigo Goncalves
-<sub>*Analista de Banco de Dados* Júnior</sub>
+<sub>*Analista de Banco de Dados* Pleno</sub>
 
 ## Para voltar à pagina principal [clique aqui](https://github.com/RodriguoGoncalves/Sigmoidal_data_science)
 
